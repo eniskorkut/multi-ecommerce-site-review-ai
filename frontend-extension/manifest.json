@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Akıllı Yorum Asistanı",
+  "version": "1.0",
+  "description": "Yorumlar için akıllı asistan.",
+  "permissions": ["tabs"],
+  "host_permissions": ["http://localhost:8080/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
