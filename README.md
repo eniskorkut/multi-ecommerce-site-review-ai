@@ -94,6 +94,8 @@ cd backend/ai_core
 echo "GEMINI_API_KEY=your_actual_api_key_here" > .env
 ```
 
+**Önemli**: `your_actual_api_key_here` kısmını gerçek API anahtarınızla değiştirin!
+
 ### 4. Chrome Extension Kurulumu
 1. Chrome'da `chrome://extensions/` adresine gidin
 2. "Developer mode" açın
